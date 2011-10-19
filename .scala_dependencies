@@ -1,0 +1,11 @@
+C:\workspace\Levenshtein\bin;C:\Documents and Settings\re56071\eclipse-36-jee\configuration\org.eclipse.osgi\bundles\950\1\.cp\lib\scala-library.jar;C:\Documents and Settings\re56071\eclipse-36-jee\configuration\org.eclipse.osgi\bundles\950\1\.cp\lib\scala-dbc.jar;C:\Documents and Settings\re56071\eclipse-36-jee\configuration\org.eclipse.osgi\bundles\950\1\.cp\lib\scala-swing.jar;C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\ext\dnsns.jar;C:\Program Files\Java\jre6\lib\ext\localedata.jar;C:\Program Files\Java\jre6\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre6\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre6\lib\ext\sunpkcs11.jar
+-------
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\src\Levenshtein.scala
+-------
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein.class
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein$$anonfun$computeMatrix$3.class
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein$$anonfun$computeMatrix$3$$anonfun$apply$mcVI$sp$1.class
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein$.class
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein$$anonfun$computeMatrix$3$$anonfun$apply$mcVI$sp$1$$anonfun$1.class
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein$$anonfun$computeMatrix$2.class
+C:\workspace\Levenshtein\src\Levenshtein.scala -> C:\workspace\Levenshtein\bin\Levenshtein$$anonfun$computeMatrix$1.class
